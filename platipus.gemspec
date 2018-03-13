@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{This is my very first gem I wanted to publish}
   spec.description   = %q{yolo!!! thsi is to test the gem that i have created wallah!!!}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://www.facebook.com/stingrayz"
   spec.license       = "MIT"
 
   
