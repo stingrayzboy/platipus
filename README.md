@@ -1,4 +1,4 @@
-# DevcampViewTool
+# Platipus
 
 > Various view specific methods for applications I use.
 
@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'devcamp_view_tool'
+gem 'platipus'
 ```
 
 And then execute:
@@ -16,12 +16,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install devcamp_view_tool
+    $ gem install platipus
 
 ## Usage
 
 ```ruby
-DevcampViewTool::Renderer.copyright 'Jordan Hudgens', 'All rights reserved'
+Platipus::Renderer.copyright 'Faraz Noor', 'All rights reserved'
 ```
 
 ## Development
